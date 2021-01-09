@@ -1,9 +1,2 @@
-### Hi there 👋
-
-<!--
-**abolfazlazarkerdar/abolfazlazarkerdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Grim Gate (3d Game)
--->
+# Summary
+I'm a starter in 3D arts. I do modeling, sculpting, shading of characters and other assets for games.
